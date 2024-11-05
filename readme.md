@@ -29,3 +29,7 @@ Editez le fichier ex3.css pour obtenir les résultats suivants.
 
 ![alt text](./assets/imgs/ex3-print.png)
 - Version imprimable
+
+
+### 👉 Article français sur le sujet
+https://www.alsacreations.com/article/lire/930-css3-media-queries.html
